@@ -1,6 +1,6 @@
 ### Input Devices
 
-[ CH1 ](Note/ch1.md)
+[ CH1 ](https://github.com/ishmeet-codes/Note/blob/main/ch1.md)
 
 
 
