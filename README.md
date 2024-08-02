@@ -1,5 +1,9 @@
 ### Input Devices
 
+[ CH1 ](Note/ch1.md)
+
+
+
 1. **Keyboard**:  A hardware device used to input text and commands into a computer. It consists of a set of keys, including letters, numbers, and function keys. Converts keystrokes into digital signals that the computer processes.
 
 2. **Mouse**: A pointing device that allows users to interact with the computer's graphical user interface. It usually has two buttons (left and right) and a scroll wheel. Detects movement and button presses, which are translated into cursor movements and commands.
