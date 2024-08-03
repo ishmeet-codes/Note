@@ -1,6 +1,6 @@
 ### Input Devices
 
-[ CH1 ](./Note/ch1.md)
+[ CH1 ](./ch1.md)
 
 
 
