@@ -1,6 +1,6 @@
 ### Input Devices
 
-[ CH1 ](./ch1.md)
+[ CH1 ](./yup/ch1.md)
 
 
 
